@@ -1,7 +1,21 @@
 h1{
   text-align: center;
-  background-image: "https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png";
   font-family: Helvetica;
   font-size:70px;
   font-weight:bold;
+  color: White;
+}
+a{
+font-size:18px;
+color: White;
+}
+div{
+  text-align: center;
+  background-image: url(https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png);
+  font-family: Helvetica;
+color: White;
+}
+body{
+  diplay: grid;
+  vertical-align: middle;
 }
