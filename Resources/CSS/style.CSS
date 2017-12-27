@@ -18,4 +18,31 @@ color: White;
 body{
   diplay: grid;
   vertical-align: middle;
+  align-items: center;
+}
+h2{
+  text-align: center;
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: Black;
+  display:grid;
+}
+h3{
+  display: grid;
+  align-items: center;
+  font-family: Helvetica;
+  text-align: center;
+  font-size: 23px;
+  font-weight: bold;
+}
+h4{
+  font-family: Helvetica;
+  font-size: 14px;
+  text-align: center;
+}
+footer{
+  background-color: dimgray;
+  font-size: 11px;
+  color: White;
 }
